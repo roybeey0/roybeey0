@@ -65,21 +65,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=roybeey0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=9945FF&icon_color=9945FF&text_color=c084fc&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roybeey0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=9945FF&text_color=c084fc&langs_count=6" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=roybeey0&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=9945FF&ring=9945FF&fire=c084fc&currStreakLabel=c084fc&sideLabels=c084fc&dates=6b7280" />
-
-</div>
-
----
-
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=roybeey0&style=flat-square&color=9945FF&label=visitors)
