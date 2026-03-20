@@ -7,7 +7,6 @@
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   Data Science & AI Student  ·  UBAYA Surabaya
-  Crypto · Blockchain · ML · Rust · roybeey.com
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
